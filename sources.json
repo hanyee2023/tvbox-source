@@ -1,0 +1,51 @@
+{
+  "name": "我的影视源",
+  "version": 2,
+  "sources": [
+    {
+      "name": "量子资源",
+      "url": "http://cj.lziapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "暴风资源",
+      "url": "http://bfzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "红牛资源",
+      "url": "http://www.hongniuzy2.com/api.php/provide/vod"
+    },
+    {
+      "name": "电影天堂",
+      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "非凡资源",
+      "url": "http://cj.ffzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "暴风电影网",
+      "url": "http://www.bzzdyy.com/api.php/provide/vod"
+    },
+    {
+      "name": "360资源",
+      "url": "https://360zy.com/api.php/provide/vod"
+    },
+    {
+      "name": "极速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "量子备用",
+      "url": "http://lzizy1.com/api.php/provide/vod"
+    },
+    {
+      "name": "非凡备用",
+      "url": "http://ffzy.tv/api.php/provide/vod"
+    },
+    {
+      "name": "百度资源",
+      "url": "http://api.apibdzy.com/api.php/provide/vod"
+    }
+  ],
+  "liveSources": []
+}
