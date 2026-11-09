@@ -102,7 +102,32 @@
       "filterable": 1
     }
   ],
-  "lives": [],
+  "lives": [
+    {
+      "name": "央视·卫视·地方（实测快照）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/你的用户名/tvbox-source/main/live.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml"
+    },
+    {
+      "name": "央视频道（每日更新）",
+      "type": 0,
+      "url": "https://iptv.clbug.com/download.php?type=ipv4&category=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&format=m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml"
+    },
+    {
+      "name": "卫视频道（每日更新）",
+      "type": 0,
+      "url": "https://iptv.clbug.com/download.php?type=ipv4&category=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&format=m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml"
+    },
+    {
+      "name": "地方频道（每日更新）",
+      "type": 0,
+      "url": "https://iptv.clbug.com/download.php?type=ipv4&category=%E5%9C%B0%E6%96%B9%E9%A2%91%E9%81%93&format=m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml"
+    }
+  ],
   "parses": [],
   "flags": []
 }

@@ -74,5 +74,12 @@
       "filterable": 1
     }
   ],
-  "lives": []
+  "lives": [
+    {
+      "name": "央视·卫视·地方（老电视专用）",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/你的用户名/tvbox-source/main/live-legacy.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml"
+    }
+  ]
 }

@@ -15,5 +15,5 @@ jobs:
       - name: 拉取仓库
         uses: actions/checkout@v4
 
-      - name: 探活所有点播源
+      - name: 探活点播源、直播订阅与 M3U 快照
         run: python3 scripts/check.py tvbox.json tvbox-legacy.json
