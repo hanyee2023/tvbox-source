@@ -1,0 +1,193 @@
+{
+  "spider": "",
+  "sites": [
+    {
+      "key": "ty",
+      "name": "天涯资源",
+      "type": 1,
+      "api": "http://tyyszy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mt",
+      "name": "茅台资源",
+      "type": 1,
+      "api": "http://caiji.maotaizy.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "maoyan",
+      "name": "猫眼资源",
+      "type": 1,
+      "api": "http://api.maoyanapi.top/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zy360",
+      "name": "360资源",
+      "type": 1,
+      "api": "http://360zyzz.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "js",
+      "name": "极速资源",
+      "type": 1,
+      "api": "http://jszyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "md",
+      "name": "魔都资源",
+      "type": 1,
+      "api": "http://www.mdzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ffzy",
+      "name": "非凡资源",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zuid",
+      "name": "最大资源",
+      "type": 1,
+      "api": "http://api.zuidapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wj",
+      "name": "无尽资源",
+      "type": 1,
+      "api": "http://api.wujinapi.me/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jy",
+      "name": "金鹰资源",
+      "type": 1,
+      "api": "http://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "uku",
+      "name": "U酷资源",
+      "type": 1,
+      "api": "http://api.ukuapi88.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "gs",
+      "name": "光速资源",
+      "type": 1,
+      "api": "http://api.guangsuapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hongniu",
+      "name": "红牛资源",
+      "type": 1,
+      "api": "http://www.hongniuzy2.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mddm",
+      "name": "魔都动漫",
+      "type": 1,
+      "api": "http://caiji.moduapi.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hh",
+      "name": "豪华资源",
+      "type": 1,
+      "api": "http://hhzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "aidan",
+      "name": "艾旦影视",
+      "type": 1,
+      "api": "http://lovedan.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "apibdzy",
+      "name": "百度资源",
+      "type": 1,
+      "api": "http://api.apibdzy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "bzzdyy",
+      "name": "暴风电影网",
+      "type": 1,
+      "api": "http://www.bzzdyy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lzizy1",
+      "name": "量子备用",
+      "type": 1,
+      "api": "http://lzizy1.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "aqy",
+      "name": "爱奇艺资源",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "央视·卫视·地方（老电视专用）",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/hanyee2023/tvbox-source@main/live-legacy.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml"
+    }
+  ]
+}
